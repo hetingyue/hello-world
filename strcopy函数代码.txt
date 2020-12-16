@@ -9,3 +9,4 @@ char* StrCpy(char* src)
 	*(p + n) = '\0';
 	return p;
 }
+//远程edit
